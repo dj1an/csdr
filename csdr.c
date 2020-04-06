@@ -48,7 +48,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "libcsdr_gpl.h"
 #include "ima_adpcm.h"
 #include <sched.h>
-#include <cmath>
+#include <math.h>
 #include <strings.h>
 #include <errno.h>
 #include "fastddc.h"
